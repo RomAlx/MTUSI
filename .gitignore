@@ -7,3 +7,4 @@
 .env.*
 /.cursor/
 /task_context/
+/logisim/
